@@ -1,0 +1,11 @@
+super: start 09:56:39 hogs=0
+super: done 10:17:30 result/CPU2026.021.log 6.74
+perf: start 10:18:22 hogs=2
+perf: done 10:39:09 result/CPU2026.022.log 6.75
+eff: start 10:40:01 hogs=6
+eff: done 11:14:17 result/CPU2026.023.log 4.05
+ALL DONE
+--- rerun super (seq fix)
+super: start 11:16:01 hogs=0
+super: done 11:31:33 result/CPU2026.024.log 9.16
+ALL DONE

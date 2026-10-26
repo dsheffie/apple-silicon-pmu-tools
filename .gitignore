@@ -1,0 +1,21 @@
+# Binaries
+/pmcrun
+/ipctest
+/smcread
+/hogfix
+hbcbench/hbcbench
+hbcbench/hbcbench_swapped
+hbcbench/coldbench
+hbcbench/coldbench_swapped
+hbcbench/tabbench
+hbcbench/tabbench_swapped
+hbcbench/layout_*
+# Generated assembly (regenerate with the gen_*.py scripts; up to 130 MB each)
+*.S
+hbcbench/mainlay/
+# TeX intermediates
+*.aux
+*.log
+hbcbench/hbc-writeup.out
+.DS_Store
+__pycache__/

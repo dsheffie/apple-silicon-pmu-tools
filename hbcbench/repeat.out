@@ -1,0 +1,26 @@
+super tk1024               719.681      683.139    0.949     1.44     1.50  0.703|0.667
+super placement: super-core cycles 98.3%, clock 4.58 GHz
+super tk1024               694.674      678.119    0.976     1.46     1.46  0.678|0.662
+super placement: super-core cycles 98.8%, clock 4.77 GHz
+super tk1024               689.877      685.219    0.993     1.49     1.50  0.674|0.669
+super placement: super-core cycles 100.0%, clock 4.80 GHz
+super tk1024               683.607      674.314    0.986     1.50     1.52  0.668|0.659
+super placement: super-core cycles 100.0%, clock 4.80 GHz
+perf data-random50          6.718        8.417    1.253     1.14     0.98  6.718|8.417
+perf placement: super-core cycles 0.0%, clock 4.51 GHz
+perf data-random50          7.563        6.304    0.834     0.98     1.13  7.563|6.304
+perf placement: super-core cycles 0.0%, clock 4.51 GHz
+perf data-random50          6.108        6.599    1.080     1.17     1.09  6.108|6.599
+perf placement: super-core cycles 0.0%, clock 4.51 GHz
+perf data-random50          5.785        8.880    1.535     1.26     0.90  5.785|8.880
+perf placement: super-core cycles 0.0%, clock 4.51 GHz
+eff tk1024              1416.759     1438.384    1.015     0.72     0.70  1.384|1.405
+eff placement: super-core cycles 0.0%, clock 3.46 GHz
+eff tk1024              1279.481     1334.727    1.043     0.79     0.77  1.249|1.303
+eff placement: super-core cycles 0.0%, clock 3.32 GHz
+eff tk1024              1257.041     1395.171    1.110     0.79     0.73  1.228|1.362
+eff placement: super-core cycles 0.0%, clock 3.36 GHz
+eff tk1024              1479.355     1487.149    1.005     0.72     0.73  1.445|1.452
+eff placement: super-core cycles 0.0%, clock 3.42 GHz
+
+[exited with code 0]
