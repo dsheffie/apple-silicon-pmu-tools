@@ -98,3 +98,7 @@ and tables are in `hbcbench/hbc-writeup.pdf`; the raw outputs are the `*.out` fi
 
 The generated assembly is not checked in (some files exceed 100 MB); the Makefile and
 `build-main.sh` regenerate it.
+
+## License
+
+BSD 3-Clause; see `LICENSE`.
